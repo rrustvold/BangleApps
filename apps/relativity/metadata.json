@@ -1,0 +1,14 @@
+{
+  "id": "relativity",
+  "name": "Relativity",
+  "version": "0.01",
+  "description": "Near Light Speed Travel",
+  "icon": "speedo.png",
+  "tags": "tool,outdoors,gps",
+  "supports": ["BANGLEJS","BANGLEJS2"],
+  "storage": [
+    {"name":"relativity.app.js","url":"relativity.js"},
+    {"name":"speedo.img","url":"speedo-icon.js","evaluate":true},
+    {"name":"relativity.settings.js","url":"relativity.settings.js"}
+  ]
+}
